@@ -20,6 +20,8 @@
 
 
 
-
+Para executar
+ 1. Servidor
+ 2. Serviço de nomes
 
 
